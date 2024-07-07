@@ -1,0 +1,8 @@
+secret.txt
+
+*.log
+*.tmp
+*.env
+
+notes/*
+!notes/readme.txt
